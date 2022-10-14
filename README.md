@@ -8,7 +8,7 @@ Clone the repository ensuring the dependencies in the requirements file are sati
 
 Alternatively, to install within an environment in use and run as demonstrated in the examples: 
 
-    `pip install git+https://github.com/dlincoln/dlopy`
+    pip install git+https://github.com/dlincoln/dlopy
 
 ### Prandtl Failure Mechanism
 ![](resources/prandtl_foundation.png)
