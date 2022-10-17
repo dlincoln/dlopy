@@ -1,5 +1,5 @@
 ## DLOpy
-Efficient Python implementation of [Discontinuity Layout Optimisation](https://en.wikipedia.org/wiki/Discontinuity_layout_optimization) (DLO) for understanding and developing the Python ecosystem in the context of [Linear Programming/Optimization](https://en.wikipedia.org/wiki/Linear_programming) (LP) problems cast for engineering analysis, in particular geotechnical failure mechanisms.
+Efficient Python implementation of [Discontinuity Layout Optimisation](https://en.wikipedia.org/wiki/Discontinuity_layout_optimization) (DLO) for understanding and developing the Python ecosystem in the context of [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming) (LP) problems cast for engineering analysis, in particular geotechnical failure mechanisms.
 
 This repository is intended solely for research/study purposes to further enable the discovery and demonstration of engineering problems and numerical methods cross-discipline with Python. For commercial practice please see [LimitState:GEO](https://www.limitstate.com/geo).
 
