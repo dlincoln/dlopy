@@ -2,7 +2,7 @@
 Efficient Python implementation demonstrating [Discontinuity Layout Optimisation](https://en.wikipedia.org/wiki/Discontinuity_layout_optimization) (DLO) for assessing geotechnical failure mechanisms.
 
 This repository is intended for handy open stack demonstration and/or research purposes to support the cross-discipline discovery of [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming) (LP) applications and numerical methods in general. 
-For commercial practice please see [LimitState:GEO](https://www.limitstate.com/geo).
+For commercial practices please see [LimitState:GEO](https://www.limitstate.com/geo).
 
 Note herein also examples and ideas on implementing Numba (compiled generalized universal functions for NumPy arrays), SciPy (linear programming) and Sklearn (graph computing) for efficient numerical computation.
 
